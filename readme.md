@@ -1,0 +1,1 @@
+this is sample springboot application with spring data for retrieving entities 
