@@ -8,3 +8,4 @@ this is sample readme in master
 lets make change in master change 1
 
 change 3 in dev
+change 2 in master
